@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="mon_nvbar_color">#F2EAEA</color>
     <color name="mon_logo_color">#000000</color>
+    <color name="section_profile_background">#E5E5E5</color>
+    <color name="shadow_profil">#rgba(0, 0, 0, 1)</color>
 </resources>
